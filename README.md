@@ -8,7 +8,6 @@ Efficiently manage IKEA's product inventory, track sales, and optimize stock lev
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
